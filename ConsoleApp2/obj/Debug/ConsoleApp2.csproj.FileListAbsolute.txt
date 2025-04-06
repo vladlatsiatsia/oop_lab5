@@ -1,0 +1,7 @@
+E:\Vlad\Универ\Основи програмування\2 семестр\oop-lab5\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Vlad\Универ\Основи програмування\2 семестр\oop-lab5\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Vlad\Универ\Основи програмування\2 семестр\oop-lab5\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Vlad\Универ\Основи програмування\2 семестр\oop-lab5\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\Vlad\Универ\Основи програмування\2 семестр\oop-lab5\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Vlad\Универ\Основи програмування\2 семестр\oop-lab5\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Vlad\Универ\Основи програмування\2 семестр\oop-lab5\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
